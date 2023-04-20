@@ -3,6 +3,11 @@
 <!--
 **ChanJeunlam/ChanJeunlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+ChanJeunlam/ChanJeunlam
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, Welcome to my Github page;学不会地球流体力学的生瓜蛋子)](https://git.io/typing-svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
