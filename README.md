@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+![ChanJeunlam's Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChanJeunlam&layout=compact&hide_border=true&langs_count=10)
+
+[![ChanJeunlam's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChanJeunlam)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Metrics](https://metrics.lecoq.io/ChanJeunlam?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
