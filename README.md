@@ -6,8 +6,7 @@
 
 ChanJeunlam/ChanJeunlam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, Welcome to my Github page;学不会地球流体力学的生瓜蛋子)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73262&width=435&lines=Hello%2C+Welcome+to+my+Github+page;%E5%AD%A6%E4%B8%8D%E4%BC%9A%E5%9C%B0%E7%90%83%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E7%9A%84%E7%94%9F%E7%93%9C%E8%9B%8B%E5%AD%90)](https://git.io/typing-svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
